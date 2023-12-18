@@ -1,10 +1,10 @@
-# Olá. Eu sou o Thiago Alves 👋
+# Hello. I'm Thiago Alves 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/thiago-alves-010915274/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thiagopaulista87/) [![FrontEnd Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=for-the-badge&logo=Frontend-Mentor&logoColor=white)](https://www.frontendmentor.io/profile/MrThiago87) [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/thiago87gsa)
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago87dev&show_icons=true&theme=dark)
 
-# Tecnologias 
+# Technologies 
 
 <div style="inline-block"><br/>
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html5"/>
@@ -21,8 +21,8 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="vs code"/>
 </div>
 
-## Estudante de Análise e Desenvolvimento de Sistemas
-### Sou apaixonado por tecnologia e estou sempre em constante aprendizado. Pronto para os novos desafios e para transformar ideias em inovações incríveis!
+## Systems Analysis and Development Student
+### I'm passionate about technology and I'm always learning. Ready for new challenges and to transform ideas into incredible innovations!
 
 
 <div>
